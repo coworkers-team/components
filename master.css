@@ -1,0 +1,7 @@
+.pagination li.disabled > a,
+.pagination li.disabled a:hover {
+  background-color: #eee;
+}
+a.no-click {
+  pointer-events: none;
+}
